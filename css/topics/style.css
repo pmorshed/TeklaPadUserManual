@@ -136,86 +136,85 @@ map > area {
 }
 .ts26 {
   font-family: Tahoma;
-  color: Red;
+  font-weight: bold;
 }
 .ts27 {
   font-family: Tahoma;
-  color: #00b050;
 }
 .ts28 {
   font-family: Tahoma;
+  color: #00b050;
 }
 .ts29 {
   font-family: Tahoma;
   font-weight: bold;
+  color: #00b050;
 }
 .ts30 {
   font-family: Tahoma;
-  font-style: italic;
 }
 .ts31 {
   font-family: Tahoma;
-  color: Black;
+  color: Red;
 }
 .ts32 {
   font-family: Tahoma;
-  font-size: 14pt;
+  font-style: italic;
+  color: #00b050;
 }
 .ts33 {
   font-family: Tahoma;
-  font-size: 14pt;
   font-weight: bold;
 }
 .ts34 {
   font-family: Tahoma;
-  font-weight: bold;
-  color: #0070c0;
+  font-style: italic;
 }
 .ts35 {
   font-family: Tahoma;
-  color: Red;
+  color: Black;
 }
 .ts36 {
   font-family: Tahoma;
-  color: #0070c0;
+  font-size: 14pt;
 }
 .ts37 {
+  font-family: Tahoma;
+  font-size: 14pt;
+  font-weight: bold;
+}
+.ts38 {
+  font-family: Tahoma;
+  font-weight: bold;
+  color: #0070c0;
+}
+.ts39 {
+  font-family: Tahoma;
+  color: Red;
+}
+.ts40 {
+  font-family: Tahoma;
+  color: #0070c0;
+}
+.ts41 {
   font-family: Tahoma;
   font-weight: bold;
   color: #4f81bd;
 }
-.ts38 {
+.ts42 {
   font-family: Tahoma;
   color: #00b050;
 }
-.ts39 {
+.ts43 {
   font-family: Tahoma;
   font-size: 14pt;
   font-weight: bold;
   color: #0070c0;
 }
-.ts40 {
+.ts44 {
   font-family: Tahoma;
   font-weight: bold;
   color: #92d050;
-}
-.ts41 {
-  font-family: Tahoma;
-  font-style: italic;
-  color: Black;
-}
-.ts42 {
-  font-family: Tahoma;
-  font-size: 14pt;
-  font-weight: bold;
-  color: Red;
-}
-.ts43 {
-  font-family: Tahoma;
-  font-weight: bold;
-}
-.ts44 {
-  font-family: Tahoma;
 }
 .ts45 {
   font-family: Tahoma;
@@ -224,25 +223,43 @@ map > area {
 }
 .ts46 {
   font-family: Tahoma;
+  font-size: 14pt;
   font-weight: bold;
   color: Red;
 }
 .ts47 {
   font-family: Tahoma;
   font-weight: bold;
-  color: #00b050;
 }
 .ts48 {
+  font-family: Tahoma;
+}
+.ts49 {
+  font-family: Tahoma;
+  font-style: italic;
+  color: Black;
+}
+.ts50 {
+  font-family: Tahoma;
+  font-weight: bold;
+  color: Red;
+}
+.ts51 {
+  font-family: Tahoma;
+  font-weight: bold;
+  color: #00b050;
+}
+.ts52 {
   font-family: Tahoma;
   font-weight: bold;
   font-style: italic;
   color: #0070c0;
 }
-.ts49 {
+.ts53 {
   font-family: Tahoma;
   text-decoration: underline;
 }
-.ts50 {
+.ts54 {
   font-family: Tahoma;
   font-size: 14pt;
   color: #0080ff;
