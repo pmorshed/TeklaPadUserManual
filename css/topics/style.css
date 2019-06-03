@@ -172,8 +172,7 @@ map > area {
 }
 .ts35 {
   font-family: Tahoma;
-  font-size: 11pt;
-  font-weight: bold;
+  color: Red;
 }
 .ts36 {
   font-family: Tahoma;
@@ -181,42 +180,43 @@ map > area {
 }
 .ts37 {
   font-family: Tahoma;
-  color: #f79646;
+  font-size: 11pt;
+  font-weight: bold;
 }
 .ts38 {
   font-family: Tahoma;
-  color: Black;
+  color: #00b050;
 }
 .ts39 {
   font-family: Tahoma;
-  font-size: 14pt;
+  color: #f79646;
 }
 .ts40 {
   font-family: Tahoma;
-  font-size: 14pt;
-  font-weight: bold;
+  color: Black;
 }
 .ts41 {
   font-family: Tahoma;
-  font-weight: bold;
-  color: #0070c0;
+  font-size: 14pt;
 }
 .ts42 {
   font-family: Tahoma;
-  color: Red;
+  font-size: 14pt;
+  font-weight: bold;
 }
 .ts43 {
   font-family: Tahoma;
+  font-weight: bold;
   color: #0070c0;
 }
 .ts44 {
   font-family: Tahoma;
-  font-weight: bold;
-  color: #4f81bd;
+  color: #0070c0;
 }
 .ts45 {
   font-family: Tahoma;
-  color: #00b050;
+  font-weight: bold;
+  color: #4f81bd;
 }
 .ts46 {
   font-family: Tahoma;

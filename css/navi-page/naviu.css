@@ -29,10 +29,10 @@
   font-weight: normal;
 }
 #popup-box .close-icon {
-  background-image: url('closeicon.png?41925325');
+  background-image: url('closeicon.png?1dfd5240');
 }
 #popup-box .topicdoc-icon {
-  background: url('docicon.png?41925325') no-repeat center center;
+  background: url('docicon.png?1dfd5240') no-repeat center center;
 }
 #sorting-popup-menu {
   background-color: White;
@@ -58,13 +58,13 @@
   font-weight: normal;
 }
 #sorting-popup-menu li.menu-item.menu-item-checked span:after {
-  background: url('checkmark.png?41925325') no-repeat 0 0;
+  background: url('checkmark.png?1dfd5240') no-repeat 0 0;
 }
 #sorting-popup-menu li.menu-item.menu-item-checked.menu-item-hover span:after {
-  background: url('checkmark.png?41925325') no-repeat 0 -8px;
+  background: url('checkmark.png?1dfd5240') no-repeat 0 -8px;
 }
 #sort-control span.caret {
-  background: url('caret.png?41925325') no-repeat 0 0;
+  background: url('caret.png?1dfd5240') no-repeat 0 0;
 }
 #toc-tree ul.dynatree-container a {
   font-family: Verdana,Arial,sans-serif;
@@ -198,7 +198,7 @@
   padding: 8px 0 0 4px;
 }
 #tabs .ui-widget-header {
-  background: url('tabs-header.png?41925325') repeat-x center center #dedede;
+  background: url('tabs-header.png?1dfd5240') repeat-x center center #dedede;
   border-bottom-color: #aaa;
 }
 .ui-tabs .ui-tabs-nav li {
@@ -208,15 +208,15 @@
   padding: 6px 4px;
 }
 #tabs .ui-widget-header .ui-state-default {
-  background: url('tab-regular.png?41925325') repeat-x center center #e6e6e6;
+  background: url('tab-regular.png?1dfd5240') repeat-x center center #e6e6e6;
   border-color: #b3b3b3;
 }
 #tabs .ui-widget-header .ui-state-hover {
-  background: url('tab-active.png?41925325') repeat-x center center #dadada;
+  background: url('tab-active.png?1dfd5240') repeat-x center center #dadada;
   border-color: #999;
 }
 #tabs .ui-widget-header .ui-state-active {
-  background: url('tab-selected.png?41925325') repeat-x center center White;
+  background: url('tab-selected.png?1dfd5240') repeat-x center center White;
   border-color: #aaa;
 }
 #tabs .ui-tabs-nav {
